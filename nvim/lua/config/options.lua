@@ -9,3 +9,4 @@ vim.opt.number = true
 vim.opt.relativenumber = true
 vim.opt.shell = "/bin/zsh"
 -- vim.opt.statuscolumn = "%s %{v:lnum} %{v:relnum}"
+vim.opt.wrap = true
